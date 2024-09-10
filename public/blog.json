@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/kBK4Vbv/10117537.jpg",
+    "title": "Learning JavaScript Basics",
+    "author": "Mark",
+    "posted_date": "2024-09-05",
+    "reading_time": 5,
+    "hashtags": ["#JavaScript", "#Programming", "#Web Development"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/YfVnqRQ/5236832.jpg",
+    "title": "Understanding React Components",
+    "author": "Robart",
+    "posted_date": "2024-09-03",
+    "reading_time": 7,
+    "hashtags": ["#React", "#JavaScript", "#Frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/xf3Mx9R/5931258.jpg",
+    "title": "Mastering CSS Grid",
+    "author": "Zams",
+    "posted_date": "2024-09-01",
+    "reading_time": 10,
+    "hashtags": ["#CSS", "#Web Design", "#Layout"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/XkFqXz7/6834677.jpg",
+    "title": "Advanced Node.js Techniques",
+    "author": "Mas",
+    "posted_date": "2024-08-28",
+    "reading_time": 12,
+    "hashtags": ["#Node.js", "#Backend", "#JavaScript"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/p0jHsCR/7212833.jpg",
+    "title": "Building Responsive Web Designs",
+    "author": "club",
+    "posted_date": "2024-08-25",
+    "reading_time": 8,
+    "hashtags": ["#Responsive Design", "#CSS", "#Web Development"]
+  }
+]
